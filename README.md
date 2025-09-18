@@ -9,7 +9,8 @@
 
 - **DIO**
     - GFT java
-    - Preparatory for Microsoft certification AZ-900
+    - [Preparation for Microsoft Certification AZ-900](/azure/dio-certificacao_az-900/)
 
 ### Courses
 
+- 

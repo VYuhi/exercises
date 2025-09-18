@@ -70,4 +70,4 @@ Até o momento, foi estudado apenas conceitos introdutórios sobre computação 
 #### OBS: de maneira geral, a interface e os recursos propostos pela Azure são idênticos para todos, desde a grande a pequena empresa, sendo válido para a conta de acesso gratuito, também.
 
 #### Até o momento, este é o fim da documentação.
-[Clique aqui para voltar a documentação geral do bootcamp](../readme.md)
+[Clique aqui para voltar a documentação geral do bootcamp](../README.md)

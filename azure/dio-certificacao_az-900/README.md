@@ -11,5 +11,5 @@
 ## Conteúdo presente neste diretório:
 
 - **Desafios de Projeto**
-    - [Documentação do que foi aprendido ao término do módulo 1](./desafio-de-projeto/readme.md)
+    - [Documentação do que foi aprendido ao término do módulo 1](./desafio-de-projeto/README.md)
 
